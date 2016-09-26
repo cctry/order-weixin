@@ -1,0 +1,6 @@
+<responseRules>
+   
+    <rule receive = "test">test</rule> 
+    <rule receive = "菜单">http://45.63.126.218/web/main.php</rule>  
+
+</responseRules>

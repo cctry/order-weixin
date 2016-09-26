@@ -1,0 +1,17 @@
+<menu>
+<dish id = "001">
+    <price>10</price>
+    <name>菜品1</name>
+    <img></img>
+</dish>
+<dish id = "002">
+    <price>11</price>
+    <name>菜品2</name>
+    <img></img>
+</dish>
+<dish id ="003">
+    <price>12</price>
+    <name>菜品3</name>
+    <img></img>
+</dish>
+</menu>
