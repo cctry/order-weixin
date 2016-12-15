@@ -23,7 +23,7 @@
             chdir(__DIR__);
             require_once("../responseText.class.php");
             $resObj = new responseText($this->XMLobj);           
-            $content = "欢迎使用!\n输入“菜单”可查看菜单</a>\n输入“订单”可查看当前订单及等待状况";
+            $content = "欢迎使用!\n输入“菜单”可查看菜单\n输入“订单”可查看当前订单及等待状况";
             $resObj->send($content);
         }
 
